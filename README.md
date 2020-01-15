@@ -1,6 +1,8 @@
-# Airbnb JavaScript Style Guide() {
+# Roof Rally JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
+
+*This style guide is based on the Airbnb Javascript style guide*
 
 > **Note**: this guide assumes you are using [Babel](https://babeljs.io), and requires that you use [babel-preset-airbnb](https://npmjs.com/babel-preset-airbnb) or the equivalent. It also assumes you are installing shims/polyfills in your app, with [airbnb-browser-shims](https://npmjs.com/airbnb-browser-shims) or the equivalent.
 
@@ -3889,6 +3891,7 @@ Other Style Guides
   - **React**: [facebook.github.io/react/contributing/how-to-contribute.html#style-guide](https://facebook.github.io/react/contributing/how-to-contribute.html#style-guide)
   - **REI**: [reidev/js-style-guide](https://github.com/rei/code-style-guides/)
   - **Ripple**: [ripple/javascript-style-guide](https://github.com/ripple/javascript-style-guide)
+  - **Roof Rally**: [roof-rally/javascript](https://github.com/roof-rally/javascript)
   - **Sainsbury’s Supermarkets**: [jsainsburyplc](https://github.com/jsainsburyplc)
   - **SeekingAlpha**: [seekingalpha/javascript-style-guide](https://github.com/seekingalpha/javascript-style-guide)
   - **Shutterfly**: [shutterfly/javascript](https://github.com/shutterfly/javascript)
